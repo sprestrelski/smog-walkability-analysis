@@ -1,0 +1,474 @@
+,Top 150,NTD ID,Agency,Mode,TOS,Month,Year,Estimated UPT
+0,Y,12,Municipality of Anchorage,DR,PT,3/2023,2023,9628.0
+1,N,376,"Ride Connection, Inc.",DR,DO,3/2023,2023,2995.0
+2,N,376,"Ride Connection, Inc.",DR,TX,3/2023,2023,2960.0
+3,N,376,"Ride Connection, Inc.",MB,DO,3/2023,2023,7512.0
+4,N,415,Ada County Highway District,VP,DO,3/2023,2023,9964.0
+5,Y,10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,MB,DO,3/2023,2023,1276155.0
+6,Y,10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,RB,DO,3/2023,2023,105547.0
+7,N,10053,Cape Ann Transportation Authority,DR,PT,3/2023,2023,4707.0
+8,N,10053,Cape Ann Transportation Authority,MB,PT,3/2023,2023,8738.0
+9,Y,10055,Connecticut Department of Transportation - CTTRANSIT New Haven Division,MB,DO,3/2023,2023,672631.0
+10,Y,10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,MB,DO,3/2023,2023,321881.0
+11,N,10066,Green Mountain Transit Authority,CB,DO,3/2023,2023,10663.0
+12,N,10066,Green Mountain Transit Authority,DR,DO,3/2023,2023,8839.0
+13,N,10066,Green Mountain Transit Authority,DR,PT,3/2023,2023,7257.0
+14,N,10066,Green Mountain Transit Authority,MB,DO,3/2023,2023,176590.0
+15,Y,10102,Connecticut Department of Transportation,CB,PT,3/2023,2023,21109.0
+16,Y,10102,Connecticut Department of Transportation,CR,PT,3/2023,2023,18365.0
+17,N,10107,Milford Transit District,MB,DO,3/2023,2023,22299.0
+18,N,10118,MetroWest Regional Transit Authority,DR,PT,3/2023,2023,13234.0
+19,N,10118,MetroWest Regional Transit Authority,MB,PT,3/2023,2023,30767.0
+20,N,11238,Bay State LLC,FB,DO,3/2023,2023,
+21,N,20135,Monsey New Square Trails Corporation,CB,DO,3/2023,2023,55123.0
+22,N,20149,"Rockland Coaches, Inc.",CB,DO,3/2023,2023,37414.0
+23,N,20177,"Adirondack Transit Lines, Inc,",CB,DO,3/2023,2023,26582.0
+24,N,20178,Ulster County ,DR,DO,3/2023,2023,904.0
+25,N,20217,"Hampton Jitney, Inc.",CB,DO,3/2023,2023,30020.0
+26,N,30007,Greater Roanoke Transit Company,MB,DO,3/2023,2023,116607.0
+27,N,30015,Luzerne County Transportation Authority,MB,DO,3/2023,2023,64557.0
+28,N,30044,Westmoreland County ,MB,DO,3/2023,2023,17484.0
+29,Y,30051,"Montgomery County, Maryland",DR,DO,3/2023,2023,962.0
+30,Y,30068,"Fairfax County, VA",MB,PT,3/2023,2023,711673.0
+31,N,30070,Potomac and Rappahannock Transportation Commission,CB,PT,3/2023,2023,80262.0
+32,N,30070,Potomac and Rappahannock Transportation Commission,DR,PT,3/2023,2023,331.0
+33,N,30070,Potomac and Rappahannock Transportation Commission,MB,PT,3/2023,2023,39640.0
+34,N,30070,Potomac and Rappahannock Transportation Commission,VP,PT,3/2023,2023,55063.0
+35,N,30076,Williamsburg Area Transit Authority,DR,DO,3/2023,2023,1410.0
+36,N,30076,Williamsburg Area Transit Authority,MB,DO,3/2023,2023,59723.0
+37,N,30080,"Arlington County, Virginia",DR,PT,3/2023,2023,2268.0
+38,N,30080,"Arlington County, Virginia",DR,TX,3/2023,2023,2003.0
+39,N,30080,"Arlington County, Virginia",MB,PT,3/2023,2023,167720.0
+40,N,30085,"Prince George's County, Maryland",DR,DO,3/2023,2023,3155.0
+41,N,30129,Anne Arundel County,DR,PT,3/2023,2023,5035.0
+42,N,30129,Anne Arundel County,MB,PT,3/2023,2023,14135.0
+43,N,30205,"Transit Management of Central Maryland, Inc.",DR,TX,3/2023,2023,1124.0
+44,N,40001,Chattanooga Area Regional Transportation Authority,IP,DO,3/2023,2023,72014.0
+45,N,40001,Chattanooga Area Regional Transportation Authority,MB,DO,3/2023,2023,96748.0
+46,N,40003,City of Memphis,DR,DO,3/2023,2023,33263.0
+47,N,40003,City of Memphis,MB,DO,3/2023,2023,268216.0
+48,N,40003,City of Memphis,SR,DO,3/2023,2023,29822.0
+49,Y,40007,City of Raleigh,DR,TX,3/2023,2023,79137.0
+50,N,40014,Ms Coast Transportation Authority,DR,DO,3/2023,2023,4874.0
+51,N,40014,Ms Coast Transportation Authority,MB,DO,3/2023,2023,50333.0
+52,N,40014,Ms Coast Transportation Authority,VP,PT,3/2023,2023,6293.0
+53,N,40021,City of Albany ,DR,DO,3/2023,2023,907.0
+54,N,40021,City of Albany ,MB,DO,3/2023,2023,25844.0
+55,N,40028,Lee County Transit,MB,DO,3/2023,2023,141264.0
+56,N,40057,Jackson Transit Authority,DR,DO,3/2023,2023,2739.0
+57,N,40057,Jackson Transit Authority,MB,DO,3/2023,2023,25913.0
+58,N,40068,Northwest Alabama Council of Local Governments,DR,DO,3/2023,2023,6737.0
+59,N,40068,Northwest Alabama Council of Local Governments,DR,TX,3/2023,2023,501.0
+60,Y,40077,South Florida Regional Transportation Authority,CR,PT,3/2023,2023,375734.0
+61,Y,40077,South Florida Regional Transportation Authority,MB,PT,3/2023,2023,37456.0
+62,N,40086,Metropolitan Bus Authority,DR,DO,3/2023,2023,5843.0
+63,N,40086,Metropolitan Bus Authority,MB,DO,3/2023,2023,135668.0
+64,Y,40087,City of Durham,DR,PT,3/2023,2023,8764.0
+65,Y,40087,City of Durham,DR,TN,3/2023,2023,3825.0
+66,Y,40087,City of Durham,MB,PT,3/2023,2023,503957.0
+67,N,40140,Collier County,DR,PT,3/2023,2023,11284.0
+68,N,40140,Collier County,MB,PT,3/2023,2023,67874.0
+69,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,3/2023,2023,91002.0
+70,N,40178,The Transportation Management Association Group,VP,DO,3/2023,2023,6025.0
+71,Y,40180,University of Georgia,DR,DO,3/2023,2023,45.0
+72,Y,40180,University of Georgia,MB,DO,3/2023,2023,409819.0
+73,N,40196,Kentuckiana Regional Planning and Development Agency,VP,DO,3/2023,2023,4625.0
+74,N,40265,North Central Alabama Regional Council of Governments,DR,DO,3/2023,2023,8543.0
+75,N,50003,City of Kenosha,DR,PT,3/2023,2023,2153.0
+76,N,50003,City of Kenosha,MB,DO,3/2023,2023,136154.0
+77,N,50022,Toledo Area Regional Transit Authority,DR,TX,3/2023,2023,7107.0
+78,N,50022,Toledo Area Regional Transit Authority,MB,DO,3/2023,2023,123519.0
+79,N,50022,Toledo Area Regional Transit Authority,VP,PT,3/2023,2023,
+80,Y,50033,Interurban Transit Partnership,DR,DO,3/2023,2023,977.0
+81,Y,50033,Interurban Transit Partnership,DR,PT,3/2023,2023,19950.0
+82,Y,50033,Interurban Transit Partnership,VP,DO,3/2023,2023,2525.0
+83,N,50058,Rockford Mass Transit District,DR,DO,3/2023,2023,9588.0
+84,N,50058,Rockford Mass Transit District,MB,DO,3/2023,2023,68880.0
+85,N,50342,LINK Hendricks County,DR,DO,3/2023,2023,4335.0
+86,Y,60032,New Orleans Regional Transit Authority,DR,DO,3/2023,2023,18706.0
+87,Y,60032,New Orleans Regional Transit Authority,FB,PT,3/2023,2023,69730.0
+88,Y,60032,New Orleans Regional Transit Authority,MB,DO,3/2023,2023,760767.0
+89,Y,60032,New Orleans Regional Transit Authority,SR,DO,3/2023,2023,293051.0
+90,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,3/2023,2023,2869.0
+91,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,3/2023,2023,68043.0
+92,N,60088,Jefferson Parish,DR,PT,3/2023,2023,5170.0
+93,N,60088,Jefferson Parish,MB,PT,3/2023,2023,130958.0
+94,N,60108,Harris County,CB,PT,3/2023,2023,251.0
+95,N,60108,Harris County,DR,TX,3/2023,2023,5535.0
+96,N,60108,Harris County,MB,PT,3/2023,2023,11048.0
+97,N,70002,Transit Authority of Omaha,MB,DO,3/2023,2023,224808.0
+98,Y,70005,Kansas City Area Transportation Authority,MB,DO,3/2023,2023,872419.0
+99,Y,70005,Kansas City Area Transportation Authority,RB,DO,3/2023,2023,60789.0
+100,Y,70019,University of Iowa,DR,DO,3/2023,2023,510.0
+101,Y,70019,University of Iowa,MB,DO,3/2023,2023,323612.0
+102,N,70044,University of Kansas,MB,PT,3/2023,2023,174141.0
+103,N,70138,East Central Iowa Council of Governments,CB,PT,3/2023,2023,8554.0
+104,N,70138,East Central Iowa Council of Governments,VP,PT,3/2023,2023,2279.0
+105,N,70275,Nebraska Department of Transportation ,VP,PT,3/2023,2023,10297.0
+106,Y,80001,Utah Transit Authority,DR,PT,3/2023,2023,45295.0
+107,N,80002,Su Tran LLC ,DR,DO,3/2023,2023,5138.0
+108,N,80002,Su Tran LLC ,MB,DO,3/2023,2023,40577.0
+109,N,80003,City of Fargo,DR,PT,3/2023,2023,5312.0
+110,N,80003,City of Fargo,MB,PT,3/2023,2023,68197.0
+111,N,80008,Cities Area Transit,DR,DO,3/2023,2023,5173.0
+112,N,80107,University of Montana,MB,DO,3/2023,2023,
+113,Y,90032,City of Phoenix Public Transit Department ,DR,PT,3/2023,2023,28621.0
+114,Y,90032,City of Phoenix Public Transit Department ,MB,PT,3/2023,2023,1294274.0
+115,N,90034,City of Glendale ,DR,DO,3/2023,2023,3948.0
+116,N,90034,City of Glendale ,MB,DO,3/2023,2023,6745.0
+117,Y,90039,City of Culver City,DR,DO,3/2023,2023,463.0
+118,Y,90041,City of Montebello,DR,PT,3/2023,2023,1966.0
+119,Y,90041,City of Montebello,DR,TX,3/2023,2023,4516.0
+120,Y,90041,City of Montebello,MB,DO,3/2023,2023,213007.0
+121,N,90043,City of Commerce,MB,DO,3/2023,2023,43318.0
+122,N,90095,San Diego Association of Governments,VP,PT,3/2023,2023,117982.0
+123,N,90131,City of Scottsdale ,MB,PT,3/2023,2023,27293.0
+124,Y,90146,Foothill Transit,MB,PT,3/2023,2023,663305.0
+125,N,90156,City of San Luis Obispo,MB,PT,3/2023,2023,61539.0
+126,Y,90209,"Valley Metro Rail, Inc.",SR,PT,3/2023,2023,35126.0
+127,N,90233,Yuma County Intergovernmental Public Transportation Authority,DR,PT,3/2023,2023,539.0
+128,N,90233,Yuma County Intergovernmental Public Transportation Authority,MB,PT,3/2023,2023,32662.0
+129,N,90233,Yuma County Intergovernmental Public Transportation Authority,VP,PT,3/2023,2023,6685.0
+130,N,90310,Tulare County Regional Transit Agency,DR,PT,3/2023,2023,1968.0
+131,N,90310,Tulare County Regional Transit Agency,MB,PT,3/2023,2023,25808.0
+132,N,91092,Tahoe Transportation District,DR,DO,3/2023,2023,863.0
+133,N,91092,Tahoe Transportation District,MB,DO,3/2023,2023,23190.0
+134,N,99423,City of Glendale,DR,PT,3/2023,2023,2128.0
+135,N,99423,City of Glendale,MB,PT,3/2023,2023,66301.0
+136,N,99424,City of Pasadena,MB,PT,3/2023,2023,93327.0
+137,N,99425,Pomona Valley Transportation Authority,DR,PT,3/2023,2023,6021.0
+138,N,99425,Pomona Valley Transportation Authority,DR,TX,3/2023,2023,1536.0
+139,Y,12,Municipality of Anchorage,DR,PT,2/2023,2023,8294.0
+140,N,376,"Ride Connection, Inc.",DR,DO,2/2023,2023,2580.0
+141,N,376,"Ride Connection, Inc.",DR,TX,2/2023,2023,2550.0
+142,N,376,"Ride Connection, Inc.",MB,DO,2/2023,2023,6605.0
+143,N,415,Ada County Highway District,VP,DO,2/2023,2023,8742.0
+144,N,10066,Green Mountain Transit Authority,CB,DO,2/2023,2023,9053.0
+145,N,10066,Green Mountain Transit Authority,DR,DO,2/2023,2023,7614.0
+146,N,10066,Green Mountain Transit Authority,DR,PT,2/2023,2023,6251.0
+147,N,10066,Green Mountain Transit Authority,MB,DO,2/2023,2023,155258.0
+148,Y,10102,Connecticut Department of Transportation,CB,PT,2/2023,2023,17921.0
+149,Y,10102,Connecticut Department of Transportation,CR,PT,2/2023,2023,15589.0
+150,N,10107,Milford Transit District,MB,DO,2/2023,2023,19605.0
+151,N,11238,Bay State LLC,FB,DO,2/2023,2023,
+152,N,20135,Monsey New Square Trails Corporation,CB,DO,2/2023,2023,46798.0
+153,N,20149,"Rockland Coaches, Inc.",CB,DO,2/2023,2023,31764.0
+154,N,20217,"Hampton Jitney, Inc.",CB,DO,2/2023,2023,25486.0
+155,Y,30051,"Montgomery County, Maryland",DR,DO,2/2023,2023,829.0
+156,N,30070,Potomac and Rappahannock Transportation Commission,CB,PT,2/2023,2023,68140.0
+157,N,30070,Potomac and Rappahannock Transportation Commission,DR,PT,2/2023,2023,285.0
+158,N,30076,Williamsburg Area Transit Authority,DR,DO,2/2023,2023,1215.0
+159,N,30076,Williamsburg Area Transit Authority,MB,DO,2/2023,2023,52508.0
+160,N,30129,Anne Arundel County,DR,PT,2/2023,2023,4337.0
+161,N,30129,Anne Arundel County,MB,PT,2/2023,2023,12428.0
+162,N,40001,Chattanooga Area Regional Transportation Authority,IP,DO,2/2023,2023,36007.0
+163,N,40001,Chattanooga Area Regional Transportation Authority,MB,DO,2/2023,2023,85060.0
+164,N,40003,City of Memphis,DR,DO,2/2023,2023,28653.0
+165,N,40003,City of Memphis,MB,DO,2/2023,2023,235815.0
+166,N,40003,City of Memphis,SR,DO,2/2023,2023,25867.0
+167,N,40014,Ms Coast Transportation Authority,DR,DO,2/2023,2023,4198.0
+168,N,40014,Ms Coast Transportation Authority,MB,DO,2/2023,2023,44252.0
+169,N,40014,Ms Coast Transportation Authority,VP,PT,2/2023,2023,5522.0
+170,N,40021,City of Albany ,DR,DO,2/2023,2023,782.0
+171,N,40021,City of Albany ,MB,DO,2/2023,2023,22722.0
+172,N,40057,Jackson Transit Authority,DR,DO,2/2023,2023,2359.0
+173,N,40057,Jackson Transit Authority,MB,DO,2/2023,2023,22783.0
+174,N,40068,Northwest Alabama Council of Local Governments,DR,DO,2/2023,2023,5803.0
+175,N,40068,Northwest Alabama Council of Local Governments,DR,TX,2/2023,2023,432.0
+176,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,2/2023,2023,73627.0
+177,Y,40180,University of Georgia,DR,DO,2/2023,2023,39.0
+178,N,40196,Kentuckiana Regional Planning and Development Agency,VP,DO,2/2023,2023,4058.0
+179,N,40265,North Central Alabama Regional Council of Governments,DR,DO,2/2023,2023,7359.0
+180,N,50022,Toledo Area Regional Transit Authority,DR,TX,2/2023,2023,6122.0
+181,Y,50033,Interurban Transit Partnership,VP,DO,2/2023,2023,2216.0
+182,N,50342,LINK Hendricks County,DR,DO,2/2023,2023,3734.0
+183,Y,60032,New Orleans Regional Transit Authority,DR,DO,2/2023,2023,16113.0
+184,Y,60032,New Orleans Regional Transit Authority,FB,PT,2/2023,2023,56416.0
+185,Y,60032,New Orleans Regional Transit Authority,MB,DO,2/2023,2023,668865.0
+186,Y,60032,New Orleans Regional Transit Authority,SR,DO,2/2023,2023,254186.0
+187,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,2/2023,2023,2471.0
+188,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,2/2023,2023,59823.0
+189,N,60088,Jefferson Parish,DR,PT,2/2023,2023,4453.0
+190,N,60088,Jefferson Parish,MB,PT,2/2023,2023,115138.0
+191,N,70002,Transit Authority of Omaha,MB,DO,2/2023,2023,197651.0
+192,Y,70005,Kansas City Area Transportation Authority,MB,DO,2/2023,2023,767029.0
+193,Y,70005,Kansas City Area Transportation Authority,RB,DO,2/2023,2023,52310.0
+194,N,70044,University of Kansas,MB,PT,2/2023,2023,153104.0
+195,N,70138,East Central Iowa Council of Governments,CB,PT,2/2023,2023,7262.0
+196,N,70138,East Central Iowa Council of Governments,VP,PT,2/2023,2023,2000.0
+197,N,80003,City of Fargo,DR,PT,2/2023,2023,4576.0
+198,N,80003,City of Fargo,MB,PT,2/2023,2023,59959.0
+199,N,80107,University of Montana,MB,DO,2/2023,2023,
+200,Y,90039,City of Culver City,DR,DO,2/2023,2023,399.0
+201,Y,90041,City of Montebello,DR,PT,2/2023,2023,1693.0
+202,N,90095,San Diego Association of Governments,VP,PT,2/2023,2023,103511.0
+203,Y,90146,Foothill Transit,MB,PT,2/2023,2023,583176.0
+204,Y,90209,"Valley Metro Rail, Inc.",SR,PT,2/2023,2023,30467.0
+205,N,90310,Tulare County Regional Transit Agency,DR,PT,2/2023,2023,1695.0
+206,N,90310,Tulare County Regional Transit Agency,MB,PT,2/2023,2023,22690.0
+207,N,99425,Pomona Valley Transportation Authority,DR,PT,2/2023,2023,5187.0
+208,N,99425,Pomona Valley Transportation Authority,DR,TX,2/2023,2023,1323.0
+209,Y,12,Municipality of Anchorage,DR,PT,1/2023,2023,8575.0
+210,N,415,Ada County Highway District,VP,DO,1/2023,2023,8903.0
+211,N,10066,Green Mountain Transit Authority,CB,DO,1/2023,2023,9477.0
+212,N,10066,Green Mountain Transit Authority,DR,DO,1/2023,2023,7872.0
+213,N,10066,Green Mountain Transit Authority,DR,PT,1/2023,2023,6463.0
+214,N,10066,Green Mountain Transit Authority,MB,DO,1/2023,2023,158864.0
+215,Y,10102,Connecticut Department of Transportation,CB,PT,1/2023,2023,18761.0
+216,Y,10102,Connecticut Department of Transportation,CR,PT,1/2023,2023,17020.0
+217,N,10107,Milford Transit District,MB,DO,1/2023,2023,20060.0
+218,N,11238,Bay State LLC,FB,DO,1/2023,2023,
+219,N,20135,Monsey New Square Trails Corporation,CB,DO,1/2023,2023,48993.0
+220,N,20149,"Rockland Coaches, Inc.",CB,DO,1/2023,2023,33253.0
+221,Y,30051,"Montgomery County, Maryland",DR,DO,1/2023,2023,857.0
+222,N,30070,Potomac and Rappahannock Transportation Commission,DR,PT,1/2023,2023,294.0
+223,N,30076,Williamsburg Area Transit Authority,DR,DO,1/2023,2023,1256.0
+224,N,30129,Anne Arundel County,DR,PT,1/2023,2023,4484.0
+225,N,30129,Anne Arundel County,MB,PT,1/2023,2023,12716.0
+226,N,40001,Chattanooga Area Regional Transportation Authority,IP,DO,1/2023,2023,39142.0
+227,N,40003,City of Memphis,DR,DO,1/2023,2023,29625.0
+228,N,40003,City of Memphis,MB,DO,1/2023,2023,241292.0
+229,N,40003,City of Memphis,SR,DO,1/2023,2023,26566.0
+230,N,40014,Ms Coast Transportation Authority,DR,DO,1/2023,2023,4341.0
+231,N,40014,Ms Coast Transportation Authority,MB,DO,1/2023,2023,45280.0
+232,N,40014,Ms Coast Transportation Authority,VP,PT,1/2023,2023,5623.0
+233,N,40057,Jackson Transit Authority,DR,DO,1/2023,2023,2439.0
+234,N,40057,Jackson Transit Authority,MB,DO,1/2023,2023,23312.0
+235,N,40068,Northwest Alabama Council of Local Governments,DR,DO,1/2023,2023,6000.0
+236,N,40068,Northwest Alabama Council of Local Governments,DR,TX,1/2023,2023,446.0
+237,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,1/2023,2023,78905.0
+238,Y,40180,University of Georgia,DR,DO,1/2023,2023,40.0
+239,N,40196,Kentuckiana Regional Planning and Development Agency,VP,DO,1/2023,2023,4133.0
+240,N,40265,North Central Alabama Regional Council of Governments,DR,DO,1/2023,2023,7609.0
+241,N,50022,Toledo Area Regional Transit Authority,DR,TX,1/2023,2023,6330.0
+242,Y,50033,Interurban Transit Partnership,VP,DO,1/2023,2023,2256.0
+243,Y,60032,New Orleans Regional Transit Authority,DR,DO,1/2023,2023,16659.0
+244,Y,60032,New Orleans Regional Transit Authority,FB,PT,1/2023,2023,60461.0
+245,Y,60032,New Orleans Regional Transit Authority,MB,DO,1/2023,2023,684401.0
+246,Y,60032,New Orleans Regional Transit Authority,SR,DO,1/2023,2023,261052.0
+247,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,1/2023,2023,2555.0
+248,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,1/2023,2023,61213.0
+249,N,60088,Jefferson Parish,DR,PT,1/2023,2023,4604.0
+250,N,60088,Jefferson Parish,MB,PT,1/2023,2023,117812.0
+251,N,70002,Transit Authority of Omaha,MB,DO,1/2023,2023,202242.0
+252,Y,70005,Kansas City Area Transportation Authority,MB,DO,1/2023,2023,784845.0
+253,Y,70005,Kansas City Area Transportation Authority,RB,DO,1/2023,2023,54959.0
+254,N,70044,University of Kansas,MB,PT,1/2023,2023,156660.0
+255,N,70138,East Central Iowa Council of Governments,CB,PT,1/2023,2023,7603.0
+256,N,70138,East Central Iowa Council of Governments,VP,PT,1/2023,2023,2037.0
+257,N,80003,City of Fargo,DR,PT,1/2023,2023,4731.0
+258,N,80003,City of Fargo,MB,PT,1/2023,2023,61352.0
+259,N,80107,University of Montana,MB,DO,1/2023,2023,
+260,Y,90039,City of Culver City,DR,DO,1/2023,2023,412.0
+261,Y,90041,City of Montebello,DR,PT,1/2023,2023,1751.0
+262,N,90095,San Diego Association of Governments,VP,PT,1/2023,2023,105419.0
+263,Y,90209,"Valley Metro Rail, Inc.",SR,PT,1/2023,2023,31290.0
+264,N,90310,Tulare County Regional Transit Agency,DR,PT,1/2023,2023,1753.0
+265,N,90310,Tulare County Regional Transit Agency,MB,PT,1/2023,2023,23217.0
+266,N,99425,Pomona Valley Transportation Authority,DR,PT,1/2023,2023,5363.0
+267,N,99425,Pomona Valley Transportation Authority,DR,TX,1/2023,2023,1368.0
+268,N,415,Ada County Highway District,VP,DO,12/2022,2022,7919.0
+269,N,10066,Green Mountain Transit Authority,CB,DO,12/2022,2022,8284.0
+270,N,10066,Green Mountain Transit Authority,DR,DO,12/2022,2022,7592.0
+271,N,10066,Green Mountain Transit Authority,DR,PT,12/2022,2022,6233.0
+272,N,10066,Green Mountain Transit Authority,MB,DO,12/2022,2022,152622.0
+273,Y,10102,Connecticut Department of Transportation,CB,PT,12/2022,2022,16398.0
+274,Y,10102,Connecticut Department of Transportation,CR,PT,12/2022,2022,16865.0
+275,N,20149,"Rockland Coaches, Inc.",CB,DO,12/2022,2022,29065.0
+276,Y,30051,"Montgomery County, Maryland",DR,DO,12/2022,2022,826.0
+277,N,30070,Potomac and Rappahannock Transportation Commission,DR,PT,12/2022,2022,284.0
+278,N,30129,Anne Arundel County,DR,PT,12/2022,2022,4324.0
+279,N,30129,Anne Arundel County,MB,PT,12/2022,2022,12217.0
+280,N,40001,Chattanooga Area Regional Transportation Authority,IP,DO,12/2022,2022,34173.0
+281,Y,40003,City of Memphis,DR,DO,12/2022,2022,28568.0
+282,Y,40003,City of Memphis,MB,DO,12/2022,2022,231811.0
+283,Y,40003,City of Memphis,SR,DO,12/2022,2022,25279.0
+284,N,40014,Ms Coast Transportation Authority,DR,DO,12/2022,2022,4186.0
+285,N,40014,Ms Coast Transportation Authority,MB,DO,12/2022,2022,43501.0
+286,N,40014,Ms Coast Transportation Authority,VP,PT,12/2022,2022,5002.0
+287,N,40068,Northwest Alabama Council of Local Governments,DR,DO,12/2022,2022,5786.0
+288,N,40068,Northwest Alabama Council of Local Governments,DR,TX,12/2022,2022,430.0
+289,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,12/2022,2022,83684.0
+290,Y,40180,University of Georgia,DR,DO,12/2022,2022,39.0
+291,N,40265,North Central Alabama Regional Council of Governments,DR,DO,12/2022,2022,7337.0
+292,Y,50033,Interurban Transit Partnership,VP,DO,12/2022,2022,2007.0
+293,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,12/2022,2022,2464.0
+294,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,12/2022,2022,58808.0
+295,N,60276,Plaquemines Port Harbor Terminal District,FB,DO,12/2022,2022,38100.0
+296,N,70002,Transit Authority of Omaha,MB,DO,12/2022,2022,194295.0
+297,N,70044,University of Kansas,MB,PT,12/2022,2022,150505.0
+298,N,70138,East Central Iowa Council of Governments,CB,PT,12/2022,2022,6645.0
+299,N,70138,East Central Iowa Council of Governments,VP,PT,12/2022,2022,1812.0
+300,N,80107,University of Montana,MB,DO,12/2022,2022,
+301,Y,90039,City of Culver City,DR,DO,12/2022,2022,398.0
+302,Y,90041,City of Montebello,DR,PT,12/2022,2022,1688.0
+303,N,90095,San Diego Association of Governments,VP,PT,12/2022,2022,93772.0
+304,Y,90209,"Valley Metro Rail, Inc.",SR,PT,12/2022,2022,29775.0
+305,N,90310,Tulare County Regional Transit Agency,DR,PT,12/2022,2022,1690.0
+306,N,90310,Tulare County Regional Transit Agency,MB,PT,12/2022,2022,22305.0
+307,N,99425,Pomona Valley Transportation Authority,DR,PT,12/2022,2022,5171.0
+308,N,99425,Pomona Valley Transportation Authority,DR,TX,12/2022,2022,1319.0
+309,N,415,Ada County Highway District,VP,DO,11/2022,2022,8768.0
+310,N,10066,Green Mountain Transit Authority,CB,DO,11/2022,2022,8806.0
+311,N,10066,Green Mountain Transit Authority,DR,DO,11/2022,2022,7702.0
+312,N,10066,Green Mountain Transit Authority,DR,PT,11/2022,2022,6323.0
+313,N,10066,Green Mountain Transit Authority,MB,DO,11/2022,2022,162105.0
+314,Y,10102,Connecticut Department of Transportation,CB,PT,11/2022,2022,17432.0
+315,Y,10102,Connecticut Department of Transportation,CR,PT,11/2022,2022,17319.0
+316,N,20149,"Rockland Coaches, Inc.",CB,DO,11/2022,2022,30897.0
+317,Y,30051,"Montgomery County, Maryland",DR,DO,11/2022,2022,838.0
+318,N,30129,Anne Arundel County,DR,PT,11/2022,2022,4387.0
+319,N,30129,Anne Arundel County,MB,PT,11/2022,2022,12976.0
+320,Y,40003,City of Memphis,DR,DO,11/2022,2022,28982.0
+321,Y,40003,City of Memphis,MB,DO,11/2022,2022,246215.0
+322,Y,40003,City of Memphis,SR,DO,11/2022,2022,28292.0
+323,N,40014,Ms Coast Transportation Authority,DR,DO,11/2022,2022,4247.0
+324,N,40014,Ms Coast Transportation Authority,MB,DO,11/2022,2022,46204.0
+325,N,40014,Ms Coast Transportation Authority,VP,PT,11/2022,2022,5538.0
+326,N,40068,Northwest Alabama Council of Local Governments,DR,DO,11/2022,2022,5870.0
+327,N,40068,Northwest Alabama Council of Local Governments,DR,TX,11/2022,2022,437.0
+328,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,11/2022,2022,89091.0
+329,Y,40180,University of Georgia,DR,DO,11/2022,2022,40.0
+330,N,40265,North Central Alabama Regional Council of Governments,DR,DO,11/2022,2022,7444.0
+331,Y,50033,Interurban Transit Partnership,VP,DO,11/2022,2022,2222.0
+332,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,11/2022,2022,2499.0
+333,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,11/2022,2022,62462.0
+334,N,70002,Transit Authority of Omaha,MB,DO,11/2022,2022,206368.0
+335,N,70044,University of Kansas,MB,PT,11/2022,2022,159856.0
+336,N,70138,East Central Iowa Council of Governments,CB,PT,11/2022,2022,7064.0
+337,N,70138,East Central Iowa Council of Governments,VP,PT,11/2022,2022,2006.0
+338,N,80107,University of Montana,MB,DO,11/2022,2022,
+339,Y,90039,City of Culver City,DR,DO,11/2022,2022,404.0
+340,Y,90041,City of Montebello,DR,PT,11/2022,2022,1713.0
+341,N,90095,San Diego Association of Governments,VP,PT,11/2022,2022,103822.0
+342,Y,90209,"Valley Metro Rail, Inc.",SR,PT,11/2022,2022,33324.0
+343,N,90310,Tulare County Regional Transit Agency,DR,PT,11/2022,2022,1715.0
+344,N,90310,Tulare County Regional Transit Agency,MB,PT,11/2022,2022,23691.0
+345,N,99425,Pomona Valley Transportation Authority,DR,PT,11/2022,2022,5246.0
+346,N,99425,Pomona Valley Transportation Authority,DR,TX,11/2022,2022,1338.0
+347,N,415,Ada County Highway District,VP,DO,10/2022,2022,9725.0
+348,N,10066,Green Mountain Transit Authority,CB,DO,10/2022,2022,9316.0
+349,N,10066,Green Mountain Transit Authority,DR,DO,10/2022,2022,8177.0
+350,N,10066,Green Mountain Transit Authority,DR,PT,10/2022,2022,6713.0
+351,N,10066,Green Mountain Transit Authority,MB,DO,10/2022,2022,174814.0
+352,Y,10102,Connecticut Department of Transportation,CB,PT,10/2022,2022,18443.0
+353,Y,10102,Connecticut Department of Transportation,CR,PT,10/2022,2022,18065.0
+354,N,20149,"Rockland Coaches, Inc.",CB,DO,10/2022,2022,32689.0
+355,Y,30051,"Montgomery County, Maryland",DR,DO,10/2022,2022,890.0
+356,N,30129,Anne Arundel County,DR,PT,10/2022,2022,4657.0
+357,N,30129,Anne Arundel County,MB,PT,10/2022,2022,13993.0
+358,Y,40003,City of Memphis,DR,DO,10/2022,2022,30770.0
+359,Y,40003,City of Memphis,MB,DO,10/2022,2022,265518.0
+360,Y,40003,City of Memphis,SR,DO,10/2022,2022,30766.0
+361,N,40014,Ms Coast Transportation Authority,DR,DO,10/2022,2022,4509.0
+362,N,40014,Ms Coast Transportation Authority,MB,DO,10/2022,2022,49826.0
+363,N,40014,Ms Coast Transportation Authority,VP,PT,10/2022,2022,6143.0
+364,N,40068,Northwest Alabama Council of Local Governments,DR,DO,10/2022,2022,6232.0
+365,N,40068,Northwest Alabama Council of Local Governments,DR,TX,10/2022,2022,464.0
+366,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,10/2022,2022,104641.0
+367,Y,40180,University of Georgia,DR,DO,10/2022,2022,42.0
+368,N,40265,North Central Alabama Regional Council of Governments,DR,DO,10/2022,2022,7903.0
+369,Y,50033,Interurban Transit Partnership,VP,DO,10/2022,2022,2465.0
+370,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,10/2022,2022,2654.0
+371,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,10/2022,2022,67358.0
+372,N,70002,Transit Authority of Omaha,MB,DO,10/2022,2022,222547.0
+373,N,70044,University of Kansas,MB,PT,10/2022,2022,172389.0
+374,N,70138,East Central Iowa Council of Governments,CB,PT,10/2022,2022,7474.0
+375,N,70138,East Central Iowa Council of Governments,VP,PT,10/2022,2022,2225.0
+376,N,80107,University of Montana,MB,DO,10/2022,2022,
+377,Y,90039,City of Culver City,DR,DO,10/2022,2022,428.0
+378,Y,90041,City of Montebello,DR,PT,10/2022,2022,1819.0
+379,N,90095,San Diego Association of Governments,VP,PT,10/2022,2022,115154.0
+380,Y,90209,"Valley Metro Rail, Inc.",SR,PT,10/2022,2022,36237.0
+381,N,90310,Tulare County Regional Transit Agency,DR,PT,10/2022,2022,1821.0
+382,N,90310,Tulare County Regional Transit Agency,MB,PT,10/2022,2022,25548.0
+383,N,99425,Pomona Valley Transportation Authority,DR,PT,10/2022,2022,5570.0
+384,N,99425,Pomona Valley Transportation Authority,DR,TX,10/2022,2022,1421.0
+385,N,10066,Green Mountain Transit Authority,CB,DO,9/2022,2022,9090.0
+386,N,10066,Green Mountain Transit Authority,DR,DO,9/2022,2022,7902.0
+387,N,10066,Green Mountain Transit Authority,DR,PT,9/2022,2022,6487.0
+388,N,10066,Green Mountain Transit Authority,MB,DO,9/2022,2022,170367.0
+389,Y,10102,Connecticut Department of Transportation,CB,PT,9/2022,2022,17995.0
+390,Y,10102,Connecticut Department of Transportation,CR,PT,9/2022,2022,17425.0
+391,N,20149,"Rockland Coaches, Inc.",CB,DO,9/2022,2022,31895.0
+392,Y,30051,"Montgomery County, Maryland",DR,DO,9/2022,2022,860.0
+393,N,30129,Anne Arundel County,DR,PT,9/2022,2022,4501.0
+394,N,30129,Anne Arundel County,MB,PT,9/2022,2022,13637.0
+395,Y,40003,City of Memphis,DR,DO,9/2022,2022,29735.0
+396,Y,40003,City of Memphis,MB,DO,9/2022,2022,258764.0
+397,Y,40003,City of Memphis,SR,DO,9/2022,2022,27757.0
+398,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,9/2022,2022,113138.0
+399,Y,40180,University of Georgia,DR,DO,9/2022,2022,41.0
+400,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,9/2022,2022,2564.0
+401,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,9/2022,2022,65645.0
+402,N,70002,Transit Authority of Omaha,MB,DO,9/2022,2022,216886.0
+403,N,80107,University of Montana,MB,DO,9/2022,2022,
+404,Y,90041,City of Montebello,DR,PT,9/2022,2022,1757.0
+405,N,90095,San Diego Association of Governments,VP,PT,9/2022,2022,118385.0
+406,Y,90209,"Valley Metro Rail, Inc.",SR,PT,9/2022,2022,32693.0
+407,N,90310,Tulare County Regional Transit Agency,DR,PT,9/2022,2022,1759.0
+408,N,90310,Tulare County Regional Transit Agency,MB,PT,9/2022,2022,24898.0
+409,N,99425,Pomona Valley Transportation Authority,DR,PT,9/2022,2022,5383.0
+410,N,99425,Pomona Valley Transportation Authority,DR,TX,9/2022,2022,1373.0
+411,N,10066,Green Mountain Transit Authority,CB,DO,8/2022,2022,9221.0
+412,N,10066,Green Mountain Transit Authority,DR,DO,8/2022,2022,8179.0
+413,N,10066,Green Mountain Transit Authority,DR,PT,8/2022,2022,6715.0
+414,N,10066,Green Mountain Transit Authority,MB,DO,8/2022,2022,163015.0
+415,Y,10102,Connecticut Department of Transportation,CB,PT,8/2022,2022,18254.0
+416,Y,10102,Connecticut Department of Transportation,CR,PT,8/2022,2022,16875.0
+417,Y,30051,"Montgomery County, Maryland",DR,DO,8/2022,2022,890.0
+418,N,30129,Anne Arundel County,DR,PT,8/2022,2022,4659.0
+419,N,30129,Anne Arundel County,MB,PT,8/2022,2022,13049.0
+420,Y,40003,City of Memphis,DR,DO,8/2022,2022,30778.0
+421,Y,40003,City of Memphis,MB,DO,8/2022,2022,247597.0
+422,Y,40003,City of Memphis,SR,DO,8/2022,2022,26300.0
+423,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,8/2022,2022,130178.0
+424,Y,40180,University of Georgia,DR,DO,8/2022,2022,42.0
+425,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,8/2022,2022,2654.0
+426,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,8/2022,2022,62812.0
+427,N,70002,Transit Authority of Omaha,MB,DO,8/2022,2022,207527.0
+428,N,80107,University of Montana,MB,DO,8/2022,2022,
+429,Y,90041,City of Montebello,DR,PT,8/2022,2022,1819.0
+430,Y,90209,"Valley Metro Rail, Inc.",SR,PT,8/2022,2022,30977.0
+431,N,90310,Tulare County Regional Transit Agency,DR,PT,8/2022,2022,1821.0
+432,N,90310,Tulare County Regional Transit Agency,MB,PT,8/2022,2022,23824.0
+433,N,99425,Pomona Valley Transportation Authority,DR,PT,8/2022,2022,5571.0
+434,N,99425,Pomona Valley Transportation Authority,DR,TX,8/2022,2022,1421.0
+435,N,10066,Green Mountain Transit Authority,CB,DO,7/2022,2022,8144.0
+436,N,10066,Green Mountain Transit Authority,DR,DO,7/2022,2022,7383.0
+437,N,10066,Green Mountain Transit Authority,DR,PT,7/2022,2022,6062.0
+438,N,10066,Green Mountain Transit Authority,MB,DO,7/2022,2022,147512.0
+439,Y,10102,Connecticut Department of Transportation,CB,PT,7/2022,2022,16123.0
+440,Y,10102,Connecticut Department of Transportation,CR,PT,7/2022,2022,15708.0
+441,Y,30051,"Montgomery County, Maryland",DR,DO,7/2022,2022,803.0
+442,N,30129,Anne Arundel County,DR,PT,7/2022,2022,4205.0
+443,N,30129,Anne Arundel County,MB,PT,7/2022,2022,11808.0
+444,Y,40003,City of Memphis,DR,DO,7/2022,2022,27783.0
+445,Y,40003,City of Memphis,MB,DO,7/2022,2022,224050.0
+446,Y,40003,City of Memphis,SR,DO,7/2022,2022,23208.0
+447,N,40175,Puerto Rico Maritime Transport Authority ,FB,PT,7/2022,2022,132402.0
+448,Y,40180,University of Georgia,DR,DO,7/2022,2022,38.0
+449,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,7/2022,2022,2396.0
+450,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,7/2022,2022,56839.0
+451,N,70002,Transit Authority of Omaha,MB,DO,7/2022,2022,187790.0
+452,N,80107,University of Montana,MB,DO,7/2022,2022,
+453,Y,90041,City of Montebello,DR,PT,7/2022,2022,1642.0
+454,N,90310,Tulare County Regional Transit Agency,DR,PT,7/2022,2022,1644.0
+455,N,90310,Tulare County Regional Transit Agency,MB,PT,7/2022,2022,21558.0
+456,N,99425,Pomona Valley Transportation Authority,DR,PT,7/2022,2022,5029.0
+457,N,99425,Pomona Valley Transportation Authority,DR,TX,7/2022,2022,1283.0
+458,N,60038,Lafayette City-Parish Consolidated Government,DR,PT,6/2022,2022,2460.0
+459,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,6/2022,2022,58742.0
+460,N,70002,Transit Authority of Omaha,MB,DO,6/2022,2022,194078.0
+461,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,5/2022,2022,59843.0
+462,N,70002,Transit Authority of Omaha,MB,DO,5/2022,2022,197716.0
+463,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,4/2022,2022,58066.0
+464,N,70002,Transit Authority of Omaha,MB,DO,4/2022,2022,191845.0
+465,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,3/2022,2022,59918.0
+466,N,70002,Transit Authority of Omaha,MB,DO,3/2022,2022,197963.0
+467,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,2/2022,2022,49757.0
+468,N,70002,Transit Authority of Omaha,MB,DO,2/2022,2022,164393.0
+469,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,1/2022,2022,47190.0
+470,N,70002,Transit Authority of Omaha,MB,DO,1/2022,2022,155912.0
+471,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,12/2021,2021,52904.0
+472,N,60038,Lafayette City-Parish Consolidated Government,MB,DO,11/2021,2021,55484.0
