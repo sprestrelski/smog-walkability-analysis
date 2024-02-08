@@ -1,20 +1,23 @@
-This is your group repo for your final project for COGS108.
+# Smog vs. Walkability Analysis
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+This repo analyzed data related to greenhouse gas emissions, public transit ridership, and walkability for all 50 US states. We used this data to help create visualizations related to pollution, miles travelled, population density, and walkability for each state to get an idea of how these factors helped to answer our question of whether less smog pollution results from higher walkability, more public transit and more people taking public transit. We found out that factors like walkability, distance to the location you want to travel, and public transit ridership help to contribute to lower smog pollution overall.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+Contributors
+- Jeffrey Wang
+- Justin Bui
+- Naasik Jahan
+- Samantha Prestrelski
+- Thuan Do
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+### Research Question
+Is increased availability of public transportation and walkability in cities an effective way of reducing smog pollution? In measurable terms, do US states with
+1. higher walkability indices
+2. more public transportation infrastructure, and
+3. high public transportation ridership numbers
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+have less smog pollution, thus indicating that people choose to use these resources?
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+See our [report](Report.ipynb)
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Class Materials: https://github.com/COGS108  
